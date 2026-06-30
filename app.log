@@ -1,0 +1,7 @@
+nohup: ignoring input
+/usr/local/lib/python3.12/dist-packages/pyDatalog/pyParser.py:771: SyntaxWarning: invalid escape sequence '\s'
+  r = re.compile('^\s*')
+ * Serving Flask app 'app'
+ * Debug mode: on
+Address already in use
+Port 5000 is in use by another program. Either identify and stop that program, or start the server with a different port.
